@@ -1,0 +1,18 @@
+On the given dataset, use various classification algorithms (Atleast four) for model selection
+
+The given features in breast_cancer.csv
+Sample code number	
+Clump Thickness	
+Uniformity of Cell Size	
+Uniformity of Cell Shape	
+Marginal Adhesion	
+Single Epithelial Cell Size	
+Bare Nuclei	
+Bland Chromatin	
+Normal Nucleoli	
+Mitoses	
+
+Output Labels: Class
+
+The value 2 represents the patient does not have cancer
+The value 4 represents the patient has cancer
